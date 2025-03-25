@@ -1,0 +1,15 @@
+torch
+sentence_transformers
+transformers 
+langchain
+langchain-community
+fastapi
+uvicorn
+pypdf
+PyPDF2
+jinja2
+chroma
+qdrant-client
+ctransformers
+python-multipart
+aiofiles
