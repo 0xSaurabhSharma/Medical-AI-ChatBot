@@ -3,6 +3,7 @@ sentence_transformers
 transformers 
 langchain
 langchain-community
+huggingface_hub
 fastapi
 uvicorn
 pypdf
